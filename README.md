@@ -1,5 +1,6 @@
 # First-Game
-First game project using Unity
+Game ini dibuat untuk membuat portfolio bersama.
+Game Endlessrun opensource. 
 
 # Skecth
 Here all skecth for Our games. <br />
