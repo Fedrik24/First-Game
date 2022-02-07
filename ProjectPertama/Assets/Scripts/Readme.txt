@@ -1,0 +1,1 @@
+Isi dari semua folder ini adalah script dalam in-game.
